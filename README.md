@@ -20,11 +20,15 @@ React based web apps playground
 ### create .env file and write 
 
 JWT_SECRET = [your jwt token]
+
 MONGO_URI = [you mongo bd url]
 
 and you are good to go...
 
+----
 
 Thanks for reading, 
+
 For feedback : discussion forum is **ON** you can discuss any things related to web dev. 
+
  See you soon, have a nice day.
