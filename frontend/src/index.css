@@ -1,4 +1,6 @@
-body{
+@import "tailwindcss";
+
+/* body{
     width: 100vw;
     margin: 5px auto;
     height: 100vh;
@@ -11,4 +13,4 @@ body{
         padding: 0px;
         margin:0px;
     }
-}
+} */
