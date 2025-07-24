@@ -6,11 +6,11 @@ React based web apps playground
 
 ### for Sign in or login page 
 
-`in git bash`
+*in git bash*
 
       git clone [repo url]
 
-`in terminal`      
+*in terminal*      
 
       cd frontend 
       npm install
