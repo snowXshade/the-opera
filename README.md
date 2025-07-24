@@ -6,23 +6,24 @@ React based web apps playground
 
 ### for Sign in or login page 
 
-*in git bash*
+> *in git bash*
 
       git clone [repo url]
 
-*in terminal*      
+> *in terminal*      
 
       cd frontend 
       npm install
       npm run dev
 
 
-`open new terminal`
+> *open new terminal*
+
       cd backend
       npm init -y
       node server.js
 
-#### create .env file in backend forlder and write this code with your personalized jwt secret key and your mongo db url
+#### create `.env` file in backend forlder and write this code with your personalized jwt secret key and your mongo db url
 
     JWT_SECRET = [your jwt token]
 
