@@ -28,7 +28,7 @@ import PrivateRoute from './compo/PrivateRoute';
 
 const App = () => {
   return (
-    <Router>
+
       <Routes>
         <Route path="/" element={<Navigate to="/login" replace />} />
 
@@ -47,7 +47,7 @@ const App = () => {
         {/* Catch all unmatched routes */}
         <Route path="*" element={<Navigate to="/login" replace />} />
       </Routes>
-    </Router>
+ 
   );
 };
 
