@@ -2,7 +2,7 @@
 React based web apps playground
 
 ## To run it locally 
-
+*you can download it and run by initializing it using `npm run dev` in user terminal.*
 
 ### for Sign in or login page 
 
